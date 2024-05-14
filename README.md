@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi, Im Jorge 👋
+### I attended Wakefield High School and here are some projects I made when I took Computer SCience A. 
+### I'm Microsoft Certified in Java and can't wait to see where this goes!
 <!--
 **CyberNinjaYoshi/CyberNinjaYoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
